@@ -1,0 +1,16 @@
+{
+  "name": "stepping_fill_js",
+  "version": "0.1.0",
+  "description": "NPM package for Stepping Fill Algorithm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "saw_koi",
+  "license": "ISC"
+}
